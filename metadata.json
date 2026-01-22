@@ -1,0 +1,8 @@
+{
+  "name": "GelisLux - Premium Fashion Boutique",
+  "description": "A luxury fashion store featuring soft pink aesthetics, informative product displays, and an integrated AI shopping assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
